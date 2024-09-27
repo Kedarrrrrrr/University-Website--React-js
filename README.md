@@ -1,1 +1,1 @@
-# University-Website--React-js
+# University-Website--React-jsThis project is a university website built using React.js. It showcases essential information about the university, including educational programs, campus life, and admission details, providing a seamless and interactive experience for prospective students and visitors.
